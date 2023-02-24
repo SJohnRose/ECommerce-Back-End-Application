@@ -29,6 +29,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Installation
 Please use 'npm install' to install the express, sequelize and dotenv packages
+Please create a .env file in root folder with database name, user name and password.
 
 # Usage
 * the tables need to be seeded using the command 'npm run seed'
