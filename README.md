@@ -36,6 +36,6 @@ Please use 'npm install' to install the express, sequelize and dotenv packages
 * the routes can be tested using the insomnia app.
 
 # How to access the application?
-Please use this link: 
+Please use this link: https://github.com/SJohnRose/ECommerce-Back-End-Application 
 
 # Walkthrough video:
