@@ -28,15 +28,15 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database  
 
 # Installation
-Please use 'npm install' to install the express, sequelize and dotenv packages
+Please use 'npm install' to install the express, sequelize and dotenv packages  
 Please create a .env file in root folder with database name, user name and password.
 
 # Usage
-* the tables need to be seeded using the command 'npm run seed'
-* the server needs to be started using the command 'node server.js'
-* the routes can be tested using the insomnia app.
+* the tables need to be seeded using the command 'npm run seed'  
+* the server needs to be started using the command 'node server.js'  
+* the routes can be tested using the insomnia app.  
 
 # How to access the application?
-Please use this link: https://github.com/SJohnRose/ECommerce-Back-End-Application 
+Please use this link: https://github.com/SJohnRose/ECommerce-Back-End-Application   
 
 # Walkthrough video:
