@@ -40,3 +40,4 @@ Please create a .env file in root folder with database name, user name and passw
 Please use this link: https://github.com/SJohnRose/ECommerce-Back-End-Application   
 
 # Walkthrough video:
+https://watch.screencastify.com/v/NCiGGUbS9M8iVOhujB2Q 
